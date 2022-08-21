@@ -11,13 +11,13 @@ const items = [
   {
     id: 1,
     nome: 'saia',
-    img: 'camiseta.png',
+    img: 'saia.png',
     quantidade: '0'
   },
   {
     id: 2,
     nome: 'sapato',
-    img: 'camiseta.png',
+    img: 'sapato.png',
     quantidade: '0'
   }
 ]
